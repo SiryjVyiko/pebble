@@ -27,11 +27,6 @@
         </repository>
     </repositories>
     <dependencies>
-        <dependency>
-            <groupId>commons-logging</groupId>
-            <artifactId>commons-logging</artifactId>
-            <version>1.0.4</version>
-        </dependency>
       <dependency>
            <groupId>net.homeip.yusuke</groupId>
            <artifactId>twitter4j</artifactId>
@@ -128,11 +123,6 @@
           <version>1.0</version>
         </dependency>
         <dependency>
-            <groupId>lucene</groupId>
-            <artifactId>lucene</artifactId>
-            <version>1.4.1</version>
-        </dependency>
-        <dependency>
             <groupId>net.java.dev.rome</groupId>
             <artifactId>rome-propono</artifactId>
             <version>0.5</version>
@@ -164,11 +154,6 @@
             <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
             <version>1.1.2</version>
-        </dependency>
-        <dependency>
-            <groupId>xmlrpc</groupId>
-            <artifactId>xmlrpc</artifactId>
-            <version>1.2-b1</version>
         </dependency>
         <dependency>
             <groupId>jtidy</groupId>
@@ -266,11 +251,6 @@
             <version>R8</version>
         </dependency>
         <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>r07</version>
-        </dependency>
-        <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>1.4</version>
@@ -279,12 +259,6 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.6</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.mockito</groupId>
-            <artifactId>mockito-core</artifactId>
-            <version>1.8.4</version>
             <scope>test</scope>
         </dependency>
         <dependency>
